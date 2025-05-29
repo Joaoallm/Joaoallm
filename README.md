@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">E aí galera, tudo bem? 👋! Meu nome é João de Almeida, aqui vou apresentar umas atividades feitas no meu curso e alguns projetos pessoais, espero que gostem!</h2>
 
 ###
 
